@@ -1,0 +1,14 @@
+.course-name{background: #505763;}
+section .course-name h2{padding-top: 50px; color: #fff; text-align: center; padding-bottom: 60px;}
+.buy-section h4+p{color: #992337;}
+.btn.btn-danger, .btn-outline-dark{width: 96%;}
+.col-md-8, .col-md-4{padding-right: 0; padding-left: 0;}
+.buy-section{border: 1px solid lightgrey; padding-left: 15px;}
+.course-specs{color: #505763; font-size: 15px;}
+.share{text-align: center; border-top: 1px solid lightgrey;margin-top: 50px;padding-top: 15px; width: 95%;}
+.learn-skills{background-color: #f9f9f9; border: 1px solid #DEDFE0; padding: 10px 15px; margin-bottom: 35px;}
+.learn-skills p{font-size: 15px;}
+.learn-skills h6{padding-top: 5px;}
+.learn-skills ul{margin-left: 15px;}
+.learn-skills table{margin-left: 20px;}
+.share .btn.btn-link:hover{text-decoration: none;}
