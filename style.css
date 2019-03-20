@@ -1,0 +1,18 @@
+.course-name{background: #505763; padding: 12px;}
+section .course-name h2{color: #fff;}
+section .course-name p{color: #fff; padding-right: 10px; font-size: 15px;}
+section .course-name p>span{margin-left: 15px;}
+.buy-section h4+p{color: #992337;}
+.btn.btn-danger, .btn-outline-dark{width: 96%;}
+.col-md-8, .col-md-4{padding-right: 0; padding-left: 0;}
+.buy-section{border: 1px solid lightgrey; padding-left: 15px;}
+.course-specs{color: #505763; font-size: 15px;}
+.share{text-align: center; border-top: 1px solid lightgrey;margin-top: 50px;padding-top: 15px; width: 95%;}
+section .learn-skills{background-color: #f9f9f9; border: 1px solid #DEDFE0; padding: 10px 15px; margin-bottom: 35px;}
+section .learn-skills  p{font-size: 15px;}
+section .learn-skills h6{padding-top: 5px;}
+section .learn-skills ul{margin-left: 15px;}
+section .learn-skills table{margin-left: 20px;}
+.share .btn.btn-link:hover{text-decoration: none;}
+.job .paddLeft, .features .paddLeft{padding-left: 40px;}
+span.badge{font-size: 10px; margin-bottom: 10px; position: relative; top: -5px;}
